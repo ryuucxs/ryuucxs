@@ -10,7 +10,9 @@
 
 
 ## 🛠️ Skills
-**Python**, **HTML**, **CSS**
+- **Python**
+- **HTML**   
+- **CSS**   
 
 
 ## 🚀 Currently Learning
