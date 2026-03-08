@@ -1,6 +1,6 @@
 # Hi 👋 I'm Robert
 
-💻 Learning Software Development
+💻 Learning Software Development   
 🌍 Based in Germany  
 🚀 Interested in combining Hardware and Software  
 
