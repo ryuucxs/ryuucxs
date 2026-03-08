@@ -3,7 +3,7 @@
 
 
 ## 💡 About Me
-- 21 • Germany  
+- 21years old • Germany  
 - Preparing for a vocational training program as an **IT Specialist in System Integration** starting September 2026.
 - Former car mechanic trainee passionate about hardware & software integration  
 - Dedicated: coding after work, always learning  
