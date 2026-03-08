@@ -31,10 +31,7 @@ Welcome to my GitHub profile!
 ---
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ryuucxs&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats"/>
-
-  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuucxs&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuucxs&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
