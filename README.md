@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Robert</h1>
-<p align="center">Welcome to my GitHub profile!</p>
 
 
 ## 💡 About Me
