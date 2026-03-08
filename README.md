@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Robert</h1>
+<h1 align="center">👋 Hey, I'm Robert</h1>
 
 
 ## 💡 About Me
 - 21years old • Germany  
 - Preparing for a vocational training program as an **IT Specialist in System Integration** starting September 2026.
-- Former car mechanic trainee passionate about hardware & software integration  
-- Dedicated: coding after work, always learning  
+- Former car mechanic trainee, passionate about hardware & software integration  
+- Dedication: coding after work, Kaizen • continuos growth mindset
 
 
 ## 🛠️ Skills
@@ -16,7 +16,6 @@
 
 ## 🚀 Currently Learning
 - Advanced Python
-- Hardware-software integration
 
 
 ## 🏗️ Personal Interests
