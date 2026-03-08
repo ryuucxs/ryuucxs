@@ -5,7 +5,8 @@
 - 21years old • Germany  
 - Preparing for a vocational training program as an **IT Specialist in System Integration** starting September 2026.
 - Former car mechanic trainee, passionate about hardware & software integration  
-- Dedication: coding after work, Kaizen • continuos growth mindset
+- Dedication: coding after work
+- Kaizen: continuos growth mindset
 
 
 ## 🛠️ Skills
