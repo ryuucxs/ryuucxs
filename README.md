@@ -17,6 +17,7 @@
 
 ## 🚀 Currently Learning
 - Advanced Python
+- Web Development
 
 
 ## 🏗️ Personal Interests
